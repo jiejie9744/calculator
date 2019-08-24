@@ -39,7 +39,7 @@ Page({
     var clear="C";
     if (btnvalue >= '0' && btnvalue <= 9) {
       var num = btnvalue;
-      if (res == '0' || res == "除数不能为0") {
+      if (res == '0' || res == "错误") {
         res = num;
       } else {
         res = res + num;
@@ -132,7 +132,7 @@ Page({
           if (num != 0) {
             res /= num;
           } else {
-            var err = "除数不能为0";
+            var err = "错误";
             res = err;
           }
           break;

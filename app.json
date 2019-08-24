@@ -6,7 +6,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "MyAppleCalculator",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json"
