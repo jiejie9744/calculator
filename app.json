@@ -6,7 +6,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "MyAppleCalculator",
+    "navigationBarTitleText": "小杰计算器",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json"
