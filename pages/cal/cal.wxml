@@ -7,12 +7,12 @@
   <view class='btnGroup'>
     <button bindtap='clickButton' id="{{id1}}" hover-class='shadow' class='btn-item  gray'>{{a}}</button>
     <button bindtap='clickButton' id="{{id2}}" hover-class='shadow' class='btn-item  gray'>
-    <image src="../../img/delet.png" mode='aspectFit'></image>
+    +/-
     </button>
     <button bindtap='clickButton' id="{{id3}}" hover-class='shadow' class='btn-item gray'>
      %
     </button>
-    <button bindtap='clickButton' id="{{id4}}" hover-class='shadow' class='btn-item orange'>/</button>
+    <button bindtap='clickButton' id="{{id4}}" hover-class='shadow' class='btn-item orange'>÷</button>
   </view>
 
   <view class='btnGroup'>
