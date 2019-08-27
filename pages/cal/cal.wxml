@@ -3,6 +3,8 @@
 </view>
 
 
+
+
 <view class='bottom'>
   <view class='btnGroup'>
     <button bindtap='clickButton' id="{{id1}}" hover-class='shadow' class='btn-item  gray'>{{a}}</button>
