@@ -2,23 +2,34 @@ page{
 
   background: #000;
 }
-
+.warn{
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center
+}
+.chang{
+  color: rgb(240, 37, 37);
+  font-size: 22px;
+  font-weight: 900;
+}
 .screen{
   
   position: fixed;
   flex-wrap: wrap;
   top:10%;
   word-wrap: break-word;
-  text-align: right;
+  text-align: center;
   width: 100%;
   
 }
 .screen view{
-  color: #fff;
-  font-size: 60px;
-  text-align: right;
-  padding-right: 80rpx;
-  padding-bottom: 20rpx;
+  color:#fff;
+font-size:60px;
+text-align:right;
+padding-bottom:20rpx;
+padding-right:12%;
+
   
 }
 

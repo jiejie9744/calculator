@@ -1,3 +1,11 @@
+<block wx:if='{{over}}'> 
+ <view class='warn' > 
+ <text class='chang'>warning: </text>
+ <text >你怎么可以这么</text>
+ <text class='chang'>长~~~</text></view>
+</block>
+
+
 <view class='screen'>
   <view>{{result}}</view>
 </view>
