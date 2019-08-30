@@ -16,21 +16,19 @@ page{
 .screen{
   
   position: fixed;
-  
-  white-space: nowrap;
-  top:15%;
+  flex-wrap: wrap;
+  top:10%;
   word-wrap: break-word;
-  
+  text-align: center;
   width: 100%;
-  
   
 }
 .screen view{
   color:#fff;
-font-size:35px;
+font-size:60px;
 text-align:right;
 padding-bottom:20rpx;
-padding-right:  35px;
+padding-right:12%;
 
   
 }

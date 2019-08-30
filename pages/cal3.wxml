@@ -8,7 +8,7 @@
 
 <view class='screen'>
   <view>{{result}}</view>
-  
+ 
 </view>
 
 
