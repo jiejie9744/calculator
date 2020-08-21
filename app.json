@@ -1,7 +1,8 @@
 {
   "pages": [
     
-    "pages/cal/cal"
+    "pages/calculator/calculator"
+    
     
   ],
   "window": {
